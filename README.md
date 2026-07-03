@@ -8,4 +8,7 @@ While all these are based on every individual’s opinion and based on past perf
 #Dataset used
 <a href="https://github.com/Kalyanijampana/IPL-Data-Analysis/upload/main">
 
+Content:
+This data contains the match descriptions, results, winners, player of the matches, ball by ball dataset and much more.
+This dataset consists of two separate CSV files: matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively.
 
